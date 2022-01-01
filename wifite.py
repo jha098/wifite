@@ -6,9 +6,8 @@
     wifite
 
     author: derv82 at gmail
-    author: bwall @botnet_hunter (ballastsec@gmail.com)
-    author: drone @dronesec (ballastsec@gmail.com)
-
+    author: lallantap @dark0baby
+    
     Thanks to everyone that contributed to this project.
     If you helped in the past and want your name here, shoot me an email
 
